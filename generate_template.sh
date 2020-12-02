@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# add following alias to `.<shell>rc` file to trigger script from CLI:
+# `alias gt="sh ~/.scripts/generate_template.sh"`
+
 # filename
 filename=$1
 # file extension
